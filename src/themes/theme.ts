@@ -1,6 +1,7 @@
 import { MD3LightTheme as PaperLightTheme } from 'react-native-paper';
 import { DefaultTheme as NavigationDefaultTheme } from '@react-navigation/native';
 import lightColors from './light.json';
+// import darkColors from './dark.json';
 
 export const CustomLightTheme = {
   ...PaperLightTheme,

@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import {BottomNavigation} from 'react-native-paper';
-import Icon from '@react-native-vector-icons/ionicons';
+import Icon from 'react-native-vector-icons/Ionicons';
 import HomeScreen from '../screens/Home';
 import Agenda from '../screens/Agenda';
 
